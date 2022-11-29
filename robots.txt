@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap:http://nnm-collector.nod.nuance.com/sitemap.xml
